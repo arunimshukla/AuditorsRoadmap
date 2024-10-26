@@ -73,7 +73,6 @@ PDF: [Smart_Contract_Auditor_PDF.pdf](https://github.com/razzorsec/AuditorsRoadm
 * [Damn Vulnerable DeFi (After Completing Step 11)](https://www.damnvulnerabledefi.xyz/)
 * [RareSkills Puzzles](https://github.com/rareSkills/solidity-riddles)
 * [MiloTruck CTF Challenges](https://github.com/MiloTruck/evm-ctf-challenges/tree/main)
-* 
   
 #### 11) DeFi Deep Dive
 
